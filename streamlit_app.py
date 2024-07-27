@@ -11,7 +11,7 @@ DATA_URL = 'http://localhost:5000/api/data'
 
 # title and logo
 st.title("Asthma Attack Prediction Dashboard")
-st.image("logo.jpeg", width=200)  # Replace 'your_logo.png' with your logo file
+st.image("./additional/logo.jpeg", width=200)  # Replace 'your_logo.png' with your logo file
 
 # Sidebar
 st.sidebar.title("Navigation")
